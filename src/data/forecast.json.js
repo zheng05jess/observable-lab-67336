@@ -1,5 +1,5 @@
-const longitude = -79.95;
-const latitude = 40.44;
+const longitude = -77.04;
+const latitude = 38.90;
 
 async function json(url) {
     // The response Object will fulfill the Promise
